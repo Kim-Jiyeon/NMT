@@ -1,0 +1,90 @@
+.topmenu{
+  width : 100%;
+}
+.leftMenu{
+  float:left;
+}
+.footerCap{
+  color: rgba(69, 193, 192, 0.5);
+}
+.mainlist{
+  display: inline-block;
+  list-style: none;
+  text-decoration: none;
+  color: rgba(69, 193, 192, 1);
+  font-family: "BMJUA";
+  font-size: 1.2em;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.mainlist:hover {
+    -webkit-transform: scale(1.5,1.5);
+    -moz-transform: scale(1.5,1.5);
+    -o-transform: scale(1.5,1.5);
+    -ms-transform: scale(1.5,1.5);
+    transform: scale(1.5,1.5);
+}
+
+.mainlist:hover{
+  color: grey;
+}
+.sublist{
+  list-style: none;
+  text-decoration: none;
+  font-family: "BMJUA";
+  font-size: 1.2em;
+  color: black;
+}
+
+.slideImg {display:none;}
+
+.underline{
+  display: inline;
+  text-decoration: underline;
+  text-decoration-color: rgba(69, 193, 192, 0.5);
+}
+.foundingPhoto{
+  color : grey;
+}
+
+.boardImg{
+  width : 80%;
+}
+.boardTitle{
+  font-family: "BMHANNA";
+  font-size: 2.5em;
+}
+.highlight{
+  color : rgba(69, 193, 192, 1);
+}
+.doubleQuotes{
+  color : grey;
+  font-size: 60px;
+}
+.footerlist{
+  list-style: none;
+}
+.videoStyle{
+  width: 80%;
+}
+#thismenu{
+  color : grey;
+}
+#thisSub{
+  color : grey;
+}
+body{
+  width: 80%;
+  margin : auto;
+}
+section{
+  float: left;
+  width: 85%;
+}
+footer{
+  clear:both;
+}

@@ -1,0 +1,20 @@
+@font-face{
+    font-family: "BMJUA";
+    src : url(../fonts/BMJUA_otf.otf), url(../fonts/BMJUA_ttf.ttf);
+}
+@font-face{
+    font-family: "BMHANNA";
+    src : url(../fonts/BMHANNA_11yrs_otf.otf), url(../fonts/BMHANNA_11yrs_ttf.ttf);
+}
+@font-face{
+    font-family: "BMDOHYEON";
+    src : url(../fonts/BMDOHYEON_otf.otf), url(../fonts/BMDOHYEON_ttf.ttf);
+}
+@font-face{
+    font-family: "BMKIRANGHAERANG";
+    src : url(../fonts/BMKIRANGHAERANG-OTF.otf), url(../fonts/BMKIRANGHAERANG-TTF.ttf);
+}
+@font-face{
+    font-family: "BMYEONSUNG";
+    src : url(../fonts/BMYEONSUNG_otf.otf), url(../fonts/BMYEONSUNG_ttf.ttf);
+}
